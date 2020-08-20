@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_lNsMZxJUoxkGaQ3JITSeuoQm",
   s3: {
     REGION: "us-west-2",
     BUCKET: "notes-app-uploads-conslack"
